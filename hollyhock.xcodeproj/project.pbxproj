@@ -14,6 +14,7 @@
 		18EC204022DFA1C700C8E743 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18EC203F22DFA1C700C8E743 /* Assets.xcassets */; };
 		18EC204322DFA1C700C8E743 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EC204122DFA1C700C8E743 /* LaunchScreen.storyboard */; };
 		18EC205122DFCFD300C8E743 /* appIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EC205022DFCFD300C8E743 /* appIcon.png */; };
+		18EC205322DFDD6A00C8E743 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EC205222DFDD6A00C8E743 /* WelcomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		18EC204222DFA1C700C8E743 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18EC204422DFA1C700C8E743 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18EC205022DFCFD300C8E743 /* appIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appIcon.png; path = ../../appIcon.png; sourceTree = "<group>"; };
+		18EC205222DFDD6A00C8E743 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				18EC203522DFA1C500C8E743 /* AppDelegate.swift */,
 				18EC203722DFA1C500C8E743 /* ViewController.swift */,
 				18EC203922DFA1C500C8E743 /* Main.storyboard */,
+				18EC205222DFDD6A00C8E743 /* WelcomeViewController.swift */,
 				18EC203F22DFA1C700C8E743 /* Assets.xcassets */,
 				18EC204122DFA1C700C8E743 /* LaunchScreen.storyboard */,
 				18EC204422DFA1C700C8E743 /* Info.plist */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18EC203822DFA1C500C8E743 /* ViewController.swift in Sources */,
+				18EC205322DFDD6A00C8E743 /* WelcomeViewController.swift in Sources */,
 				18EC203622DFA1C500C8E743 /* AppDelegate.swift in Sources */,
 				18EC203E22DFA1C500C8E743 /* hollyhock.xcdatamodeld in Sources */,
 			);
